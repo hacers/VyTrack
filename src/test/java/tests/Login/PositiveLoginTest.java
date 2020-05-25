@@ -1,4 +1,4 @@
-package tests.Contacts;
+package tests.Login;
 
 import pages.LoginPage;
 import tests.TestBase;

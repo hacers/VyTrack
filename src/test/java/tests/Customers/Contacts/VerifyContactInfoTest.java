@@ -1,4 +1,4 @@
-package tests.Contacts;
+package tests.Customers.Contacts;
 
 import pages.ContactInfoPage;
 import pages.ContactsPage;
